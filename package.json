@@ -1,0 +1,38 @@
+{
+  "name": "wildflower-theme",
+  "author": "wtype",
+  "publisher": "wtype",
+  "displayName": "Wildflower",
+  "description": "A warm and bold light theme.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "keywords": [
+    "wildflower",
+    "light",
+    "theme",
+    "warm",
+    "nature",
+    "meadow",
+    "paintbrush",
+    "lupine",
+    "sage",
+    "flax",
+    "parchment"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wildflower",
+        "uiTheme": "vs",
+        "path": "./themes/wildflower.json"
+      }
+    ]
+  }
+}
