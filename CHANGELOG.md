@@ -1,5 +1,9 @@
 # Change Log
 
-## [1.0.0] — 2026-04-24
+# 2.0.0
 
-- Initial theme release
+Added Shy variants (lower contrast) and Summer variants (cooler tones) for all themes.
+
+# 1.0.0
+
+Initial release.
