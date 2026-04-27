@@ -1,9 +1,9 @@
 # Wildflower
 
-Wildflower
-Wildflower Shy (no bold)
-Wildflower Summer (white background)
-Wildflower Shy Summer (no bold)
+- Wildflower
+- Wildflower Shy (no bold)
+- Wildflower Summer (white background)
+- Wildflower Shy Summer (no bold)
 
 ## Recommended Settings
 
