@@ -1,9 +1,13 @@
-# Change Log
+# Changes
+
+# 3.0.0
+
+Updated bracket highlight scale colors.
 
 # 2.0.0
 
-Added Shy variants (lower contrast) and Summer variants (cooler tones) for all themes.
+Added Summer and Shy themes.
 
 # 1.0.0
 
-Initial release.
+Planted.

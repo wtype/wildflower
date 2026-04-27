@@ -13,9 +13,3 @@
   "editor.cursorWidth": 3,
 }
 ```
-
-## Build
-
-```sh
-npx vsce package
-```
