@@ -4,7 +4,7 @@
   "publisher": "wildtype",
   "displayName": "Wildflower",
   "description": "A warm and bold light theme.",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -41,6 +41,16 @@
         "label": "Wildflower Summer",
         "uiTheme": "vs",
         "path": "./themes/wildflower-summer.json"
+      },
+      {
+        "label": "Wildflower Shy",
+        "uiTheme": "vs",
+        "path": "./themes/wildflower-shy.json"
+      },
+      {
+        "label": "Wildflower Shy Summer",
+        "uiTheme": "vs",
+        "path": "./themes/wildflower-shy-summer.json"
       }
     ]
   }
