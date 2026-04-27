@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wtype/Wildflower"
+    "url": "https://github.com/wtype/wildflower"
   },
   "icon": "images/icon.png",
   "engines": {
@@ -36,6 +36,11 @@
         "label": "Wildflower",
         "uiTheme": "vs",
         "path": "./themes/wildflower.json"
+      },
+      {
+        "label": "Wildflower Summer",
+        "uiTheme": "vs",
+        "path": "./themes/wildflower-summer.json"
       }
     ]
   }
