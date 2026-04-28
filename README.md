@@ -1,9 +1,12 @@
-# Wildflower
+# <img src="images/icon.png" width="50" height="50" style="vertical-align: middle" /> Wildflower
 
-- Wildflower
-- Wildflower Shy (no bold)
-- Wildflower Summer (white background)
-- Wildflower Shy Summer (no bold)
+| Wildflower                           | Wildflower Shy                                 |
+| ------------------------------------ | ---------------------------------------------- |
+| ![Wildflower](images/Wildflower.png) | ![Wildflower Shy](images/Wildflower%20Shy.png) |
+
+| Wildflower Summer                                    | Wildflower Shy Summer                                          |
+| ---------------------------------------------------- | -------------------------------------------------------------- |
+| ![Wildflower Summer](images/Wildflower%20Summer.png) | ![Wildflower Shy Summer](images/Wildflower%20Shy%20Summer.png) |
 
 ## Download
 
@@ -15,6 +18,6 @@
 ```json
 {
   "editor.lineHeight": 1.75,
-  "editor.cursorWidth": 3,
+  "editor.cursorWidth": 3
 }
 ```
