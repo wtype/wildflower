@@ -3,10 +3,12 @@
 | Wildflower                           | Wildflower Shy                                 |
 | ------------------------------------ | ---------------------------------------------- |
 | ![Wildflower](images/Wildflower.png) | ![Wildflower Shy](images/Wildflower%20Shy.png) |
+| ![Wildflower Sample 2](images/Wildflower%20Sample%202.png) | ![Wildflower Shy Sample 2](images/Wildflower%20Shy%20Sample%202.png) |
 
 | Wildflower Summer                                    | Wildflower Shy Summer                                          |
 | ---------------------------------------------------- | -------------------------------------------------------------- |
 | ![Wildflower Summer](images/Wildflower%20Summer.png) | ![Wildflower Shy Summer](images/Wildflower%20Shy%20Summer.png) |
+| ![Wildflower Summer Sample 2](images/Wildflower%20Summer%20Sample%202.png) | ![Wildflower Shy Summer Sample 2](images/Wildflower%20Shy%20Summer%20Sample%202.png) |
 
 ## Download
 
